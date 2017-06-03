@@ -1,1 +1,0 @@
-#13.13 Write a function taht takes as input a string s and a list L of equal length strings and retusn all substrings of S which are contactenation iof all the strings in L. Each string in L must appear exactly once and the ordering is immaterial.
